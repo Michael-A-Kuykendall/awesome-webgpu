@@ -148,6 +148,7 @@ Availability depends on the browser version, operating system, GPU, and driver.
 
 ## AI libraries
 
+- [Airframe](https://github.com/Michael-A-Kuykendall/airframe) - Pure-Rust WebGPU (WGSL) inference engine for GGUF models. No C++, no Python, no llama.cpp.
 - [WebLLM](https://webllm.mlc.ai/) - Browser language-model inference engine accelerated with WebGPU.
 - [ONNX Runtime Web](https://onnxruntime.ai/docs/tutorials/web/ep-webgpu.html) - Browser inference runtime with a WebGPU execution provider for ONNX models.
 - [Transformers.js](https://huggingface.co/docs/transformers.js/en/guides/webgpu) - JavaScript machine-learning library with WebGPU acceleration through ONNX Runtime.
